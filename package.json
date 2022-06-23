@@ -203,7 +203,7 @@
     "gatsby-plugin-remove-trailing-slashes": "^2.1.21",
     "gatsby-plugin-styled-components": "^3.1.19",
     "gatsby-plugin-typescript": "^2.1.27",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "humanize-string": "^2.1.0",
     "husky": "^3.1.0",
     "icedfrisby": "3.0.0",
